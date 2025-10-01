@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Acdemica activities"
-permalink: /Acdemica activitiesa/
+title: "gallery"
+permalink: /gallery/
 author_profile: true
 ---
 
