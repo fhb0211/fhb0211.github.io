@@ -25,13 +25,13 @@ redirect_from:
 </td>
 <td style="width: 80%; vertical-align: top;">
 
-* 🎉🎉 Our Research Paper was Accepted/
+- 🎉🎉 Our Research Paper was Accepted/
 
-* 📝 Title: “Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units” [Link](https://doi.org/10.1016/j.scs.2025.106865)/
+- 📝 Title: “Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units” [Link](https://doi.org/10.1016/j.scs.2025.106865)/
 
-* 📘 Journal: _Sustainable Cities and Society_/
+- 📘 Journal: _Sustainable Cities and Society_/
 
-* 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
+- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
 </td>
 </tr>
 </table>
