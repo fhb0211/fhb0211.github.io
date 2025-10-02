@@ -25,7 +25,7 @@ redirect_from:
 </td>
 <td style="width: 80%; vertical-align: top;" markdown="1">
 
-- 🌈 Our Research Paper was Accepted
+- 🌈 Our Research Paper was Accepted (*2025.10*)
   
 - 📝 Title: Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units [Link](https://doi.org/10.1016/j.scs.2025.106865)
 
@@ -45,7 +45,7 @@ redirect_from:
 </td>
 <td style="width: 80%; vertical-align: top;" markdown="1">
 
-- 🌈 Our Research Paper was Accepted
+- 🌈 Our Research Paper was Accepted (*2024.12*)
 
 - 📝 Title: Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach [Link](https://doi.org/10.1016/j.eiar.2024.107775)
 
