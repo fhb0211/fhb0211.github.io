@@ -14,8 +14,8 @@ main:
   - title: "Academic activities"
     url: /academic activities/    
 
-  - title: "Honors & Awards"
-    url: /honors and awards/    
+ # - title: "Honors & Awards"
+   # url: /honors and awards/    
  
   - title: "Life Notes"
     url: /life notes/  
