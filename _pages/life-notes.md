@@ -8,16 +8,16 @@ author_profile: true
 
 ---
 
-<img src='/images/Homepage/Home.jpg'>
+<img src='/images/life/nanjingkaixue.jpg'>
 
 ---
-**Xi'an, China** 
+**Doctoral students enroll in Nanjing University (2025, Nanjing, China)** 
 
 ---
 
-<img src='/images/Homepage/Home.jpg'>
+<img src='/images/life/nanchangbiye.jpg'>
 
 ---
-**Beijing, China** 
+**Graduated from Jiangxi University of Finance and Economics (2025, Nanchang, China)** 
 
 
