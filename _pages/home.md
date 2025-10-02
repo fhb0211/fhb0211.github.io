@@ -26,9 +26,12 @@ redirect_from:
 <td style="vertical-align: top;">
 
 * 🎉🎉 Our Research Paper was Accepted
-* 📝Title: “Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units” [Link](https://doi.org/10.1016/j.scs.2025.106865)
-* 📘Journal: _Sustainable Cities and Society_
-* 👨🏻‍🎓Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
+
+* 📝 Title: “Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units” [Link](https://doi.org/10.1016/j.scs.2025.106865)
+
+* 📘 Journal: _Sustainable Cities and Society_
+
+* 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
 
 </td>
 </tr>
@@ -42,9 +45,12 @@ redirect_from:
 <td style="vertical-align: top;">
 
 * 🎉🎉 Our Research Paper was Accepted
-* 📝Title: “Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach” [Link](https://doi.org/10.1016/j.eiar.2024.107775)
-* 📘Journal: _Environmental Impact Assessment Review_
-* 👨🏻‍🎓Authors: **Fan, H.**, Zhang, X., Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T
+
+* 📝 Title: “Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach” [Link](https://doi.org/10.1016/j.eiar.2024.107775)
+  
+* 📘 Journal: _Environmental Impact Assessment Review_
+
+* 👨🏻‍🎓 Authors: **Fan, H.**, Zhang, X., Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T
 
 </td>
 </tr>
