@@ -4,13 +4,7 @@ title: "Academic activities"
 permalink: /academic activities/
 author_profile: true
 ---
- 
----
 
-<img src='/images/gallery/Home.jpg'>
-
----
-**Recent Progress** 
 
 ---
 
