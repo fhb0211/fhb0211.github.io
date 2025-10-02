@@ -224,7 +224,10 @@ collections:
   life notes:
     output: true
     permalink: /:collection/:path/
-
+  honors and awards:
+    output: true
+    permalink: /:collection/:path/
+    
 # Defaults
 defaults:
   # _publications
@@ -249,6 +252,15 @@ defaults:
   - scope:
       path: ""
       type: life notes
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  # _honors and awards
+  - scope:
+      path: ""
+      type: honors and awards
     values:
       layout: single
       author_profile: true
