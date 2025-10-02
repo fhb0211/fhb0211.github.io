@@ -20,29 +20,28 @@ redirect_from:
 
 <table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px; background: #fafbfc;">
 <tr>
-<td style="width: 200px; vertical-align: top; padding-right: 20px;">
+<td style="width: 20%; vertical-align: top; padding-right: 20px;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
-<td style="vertical-align: top;">
+<td style="width: 80%; vertical-align: top;">
 
 * 🎉🎉 Our Research Paper was Accepted
 
 * 📝 Title: “Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units” [Link](https://doi.org/10.1016/j.scs.2025.106865)
 
-* 📘 Journal: _Sustainable Cities and Society_
+* 📘 Journal: _Sustainable Cities and Society_ 
 
 * 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
-
 </td>
 </tr>
 </table>
 
 <table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px; background: #fafbfc;">
 <tr>
-<td style="width: 200px; vertical-align: top; padding-right: 20px;">
+<td style="width: 20%; vertical-align: top; padding-right: 20px;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
-<td style="vertical-align: top;">
+<td style="width: 80%; vertical-align: top;">
 
 * 🎉🎉 Our Research Paper was Accepted
 
