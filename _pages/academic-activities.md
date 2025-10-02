@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Academic activities"
-permalink: /academic-activities/
+permalink: /academic activities/
 author_profile: true
 ---
 
