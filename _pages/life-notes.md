@@ -1,11 +1,8 @@
 ---
 layout: archive
-title: ""
-permalink: /home/
+title: "Life Notes"
+permalink: /life notes/
 author_profile: true
-redirect_from:
-  - /
-  - /home
 ---
 
 {% include base_path %}
