@@ -23,7 +23,7 @@ redirect_from:
 <td style="width: 20%; vertical-align: top; padding-right: 20px;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
-<td style="width: 80%; vertical-align: top;">
+<td style="width: 80%; vertical-align: top;" markdown="1">
 
 - 🎉🎉 Our Research Paper was Accepted/
 
