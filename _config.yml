@@ -221,9 +221,6 @@ collections:
   acdemica activities:
     output: true
     permalink: /:collection/:path/
-  honors and awards:
-    output: true
-    permalink: /:collection/:path/
   life notes:
     output: true
     permalink: /:collection/:path/
@@ -248,15 +245,6 @@ defaults:
       author_profile: true
       comments: false
       share: false
-  # _honors and awards
-  - scope:
-      path: ""
-      type: honors and awards
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: false
   # _life notes
   - scope:
       path: ""
