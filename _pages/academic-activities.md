@@ -8,21 +8,21 @@ author_profile: true
 
 ---
 
-<img src='/images/academic/xi'an1.jpg'>
+<img src='/images/academic/xian1.jpg'>
 
 ---
-**Xi'an, China** 
+**_The 12th National Geographic Graduate Academic Conference_ (2024, Xi'an, China)** 
 
 ---
 
 <img src='/images/academic/beijing1.jpg'>
 
 ---
-**Beijing, China** 
+**_The 22nd China Conference on Ecology_ (2023, Beijing, China)** 
 
 ---
 
 <img src='/images/academic/wuhan1.jpg'>
 
 ---
-**2023 Annual Conference of GSC Commission on Urban Geography (Wuhan, China)** 
+**_2023 Annual Conference of GSC Commission on Urban Geography_ (2023, Wuhan, China)** 
