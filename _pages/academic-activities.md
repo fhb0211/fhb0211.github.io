@@ -8,7 +8,7 @@ author_profile: true
 
 ---
 
-<img src='/images/academic/xian1.jpg'>
+<img src='/images/academic/beijing1.jpg'>
 
 ---
 **_The 12th National Geographic Graduate Academic Conference_ (2024, Xi'an, China)** 
