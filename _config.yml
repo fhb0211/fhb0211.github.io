@@ -239,10 +239,10 @@ defaults:
       author_profile: true
       comments: false
       share: false
-  # _acdemica activities
+  # _academic activities
   - scope:
       path: ""
-      type: acdemica activities
+      type: academic activities
     values:
       layout: single
       author_profile: true
