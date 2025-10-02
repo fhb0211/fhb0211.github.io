@@ -60,15 +60,15 @@ redirect_from:
 
 # 📖 Educations
 
-- *2025.09 – Present*: &nbsp;🇨🇳 **School of Geography and Ocean Science, Nanjing University**
+- *2025.09 – Present*: **School of Geography and Ocean Science, Nanjing University**
   
   *- PhD in Geography, Science Degree, Supervisors: [Dr. Xiaobin Jin](https://sgos.nju.edu.cn/jxb/list.htm)*
 
-- *2022.09 – 2025.06*: &nbsp;🇨🇳 **Institute of Ecological Civilization, Jiangxi University of Finance and Economics**
+- *2022.09 – 2025.06*: **Institute of Ecological Civilization, Jiangxi University of Finance and Economics**
   
   *- Master’s in Land Resources and Ecological Economics, Economics Degree*
 
-- *2018.09 – 2022.06*: &nbsp;🇨🇳 **School of Economics and Management, Yichun University**
+- *2018.09 – 2022.06*: **School of Economics and Management, Yichun University**
   
   *- Bachelor’s in Business Administration, Management Degree*
 
