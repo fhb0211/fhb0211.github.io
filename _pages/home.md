@@ -37,7 +37,7 @@ redirect_from:
 <table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px; background: #fafbfc;">
 <tr>
 <td style="width: 200px; vertical-align: top; padding-right: 20px;">
-<img src='/images/paper/EIAR.jpg' alt="sym" style="width: 100%; border-radius: 4px;">
+<img src='/images/paper/EIAR1.JPG' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
 <td style="vertical-align: top;">
 
