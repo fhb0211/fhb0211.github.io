@@ -58,24 +58,6 @@ redirect_from:
 </tr>
 </table>
 
-# 🎖 Honors and Awards
-
-- *2025.07*: &nbsp;💰 SIGKDD-supported KDD 2025 *Student Travel Award* – 1,000 USD
-
-- *2025.06*: &nbsp;💰 *Presidential Scholarship* for Outstanding International Exchange – 40,000 CNY
-
-- *2025.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
-
-- *2025.01*: &nbsp;💰 Mitacs Globalink Internship Scholarship – 6,000 CAD
-
-- *2024.12*: &nbsp;🏆 *National Second Prize*, 19th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works
-
-- *2024.10*: &nbsp;🏆 *Second Prize*, Beijing Mathematical Contest in Modeling
-
-- *2024.10*: &nbsp;💰 *Second-class* Academic Scholarship – 3,000 CNY
-
-- *2024.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
-
 # 📖 Educations
 
 - *2025.09 – Present*: &nbsp;🇨🇳 **School of Geography and Ocean Science, Nanjing University**
@@ -89,19 +71,4 @@ redirect_from:
 - *2018.09 – 2022.06*: &nbsp;🇨🇳 **School of Economics and Management, Yichun University**
   
   *- Bachelor’s in Business Administration, Management Degree*
-
-# 🌍 Visitor Map
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
-
-
-
-<div class="logo-row">
-  <img src="/images/logo/nju.png"      alt="">
-</div>
-
-
-<footer class="site-footer">
-  <p>&copy; 2025 Houbao Fan. All rights reserved.</p>
-  <p>
 
