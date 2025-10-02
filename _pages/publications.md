@@ -7,6 +7,10 @@ author_profile: true
 
 Total citations = 260; H-index = 8  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ZHcRMhgAAAAJ) 
 
+2026
+=====
+[20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 1-21. [Link](https://www.hjkx.ac.cn/ch/index.aspx)
+
 2025
 =====
 [19] <strong>Fan, H.</strong>, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y. (2025). "Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units". _Sustainable Cities and Society_, 133, 103997. [Link](https://doi.org/10.1016/j.scs.2025.106865)\
