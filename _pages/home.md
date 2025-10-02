@@ -31,7 +31,7 @@ redirect_from:
 
 - 📘 Journal: _Sustainable Cities and Society_
 
-- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, Chunguang., Hu, H., Du, X, Zhou, Y
+- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y
 
 - 🎉🎉 Congratulations to all the authors
 </td>
