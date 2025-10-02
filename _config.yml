@@ -224,7 +224,9 @@ collections:
   Honors and Awards:
     output: true
     permalink: /:collection/:path/
-
+  life notes:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -250,6 +252,15 @@ defaults:
   - scope:
       path: ""
       type: Honors and Awards
+    values:
+      layout: single
+      author_profile: true
+      share: false
+      comment: false
+  # _life notes
+  - scope:
+      path: ""
+      type: life notes
     values:
       layout: single
       author_profile: true
