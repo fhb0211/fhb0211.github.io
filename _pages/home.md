@@ -12,7 +12,7 @@ redirect_from:
 # Welcome to My Homepage  
 ---
 
-<img src='/images/500x300.png'>
+<img src='/images/Homepage/Home.jpg'>
 
 ---
 **News** 
