@@ -3,6 +3,9 @@ layout: archive
 title: "Life Notes"
 permalink: /life notes/
 author_profile: true
+redirect_from:
+  - /
+  - /home
 ---
 
 
