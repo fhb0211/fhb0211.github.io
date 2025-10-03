@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .hover-row:hover img {
-  transform: translateY(-10px) !important;
+  transform: translateY(-20px) !important;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
 }
 </style>
