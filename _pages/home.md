@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %} 
 <div style="margin: 20px 0;">
-    <h1 id="typewriter-text" style="font-size: 1.5em; font-weight: bold; color: #000; text-align: left;"></h1>
+    <h1 id="typewriter-text" style="font-size: 1.5em; font-weight: bold; text-align: left;"></h1>
 </div>
 
 <script>
