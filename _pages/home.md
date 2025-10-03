@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div style="height: 50px;"></div>
 
 # 🌍 Visitor Map
-<div style="width: 100%; max-width: 10px;">
+<div style="width: 100%; max-width: 400px; margin-top: 10px;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
 </div>
 
@@ -253,7 +253,6 @@ document.addEventListener('DOMContentLoaded', function() {
   width: 100% !important;
   height: 300px !important;
   max-width: 400px;
-  margin: 0 auto;
   display: block;
 }
 </style>
