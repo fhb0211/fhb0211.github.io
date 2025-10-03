@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
 <tr>
 <td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
+<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: box-shadow 0.3s ease;">
 </td>
 <td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
 
