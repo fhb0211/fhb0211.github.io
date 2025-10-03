@@ -26,7 +26,7 @@ redirect_from:
 <td style="width: 80%; vertical-align: top;" markdown="1">
 
 
-- 🌈 Our Research Paper was Accepted *2025.10*
+- 🌈 Our Research Paper was Accepted -- *2025.10*
   
 - 📝 Title: Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units [Link](https://doi.org/10.1016/j.scs.2025.106865)
 
@@ -46,7 +46,7 @@ redirect_from:
 </td>
 <td style="width: 80%; vertical-align: top;" markdown="1">
 
-- 🌈 Our Research Paper was Accepted *2024.12*
+- 🌈 Our Research Paper was Accepted -- *2024.12*
 
 - 📝 Title: Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach [Link](https://doi.org/10.1016/j.eiar.2024.107775)
 
@@ -147,8 +147,8 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
   <div class="timeline-item">
     <div class="timeline-date">2025.09 – Present</div>
     <div class="timeline-content">
-      <h3>PhD in Geography</h3>
-      <p><strong>Nanjing University</strong>, School of Geography and Ocean Science</p>
+      <h3><strong>Nanjing University, School of Geography and Ocean Science</strong></h3>
+      <p>PhD in Geography</p>
       <p>Supervisor: <a href="https://sgos.nju.edu.cn/jxb/list.htm">Dr. Xiaobin Jin</a></p>
     </div>
   </div>
@@ -156,16 +156,16 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
   <div class="timeline-item">
     <div class="timeline-date">2022.09 – 2025.06</div>
     <div class="timeline-content">
-      <h3>Master's in Land Resources and Ecological Economics</h3>
-      <p><strong>Jiangxi University of Finance and Economics</strong>, Institute of Ecological Civilization</p>
+      <h3><strong>Jiangxi University of Finance and Economics, Institute of Ecological Civilization</strong></h3>
+      <p>Master's in Land Resources and Ecological Economics</p>
     </div>
   </div>
 
   <div class="timeline-item">
     <div class="timeline-date">2018.09 – 2022.06</div>
     <div class="timeline-content">
-      <h3>Bachelor’s in Business Administration</h3>
-      <p><strong>Yichun University</strong>, School of Economics and Management</p>
+      <h3><strong>Yichun University, School of Economics and Management</strong></h3>
+      <p>Bachelor’s in Business Administration</p>
     </div>
   </div>
 </div>
@@ -182,7 +182,7 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
   top: 0;
   bottom: 0;
   width: 2px;
-  background: linear-gradient(to bottom, #0366d6, #28a745);
+  background: linear-gradient(to bottom, #92CDDC, #D9958F);
 }
 .timeline-item {
   position: relative;
@@ -197,13 +197,13 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: #0366d6;
+  background: #92CDDC;
   border: 2px solid white;
-  box-shadow: 0 0 0 2px #0366d6;
+  box-shadow: 0 0 0 2px #92CDDC;
 }
 .timeline-date {
   font-weight: bold;
-  color: #0366d6;
+  color: #92CDDC;
   margin-bottom: 5px;
 }
 </style>
