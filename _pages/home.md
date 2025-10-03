@@ -148,8 +148,7 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
     <div class="timeline-date">2025.09 – Present</div>
     <div class="timeline-content">
       <h3><strong>Nanjing University, School of Geography and Ocean Science</strong></h3>
-      <p>PhD in Geography</p>
-      <p>Supervisor: <a href="https://sgos.nju.edu.cn/jxb/list.htm">Dr. Xiaobin Jin</a></p>
+      <p>PhD in Geography, Supervisor: <a href="https://sgos.nju.edu.cn/jxb/list.htm">Dr. Xiaobin Jin</a></p>
     </div>
   </div>
   
