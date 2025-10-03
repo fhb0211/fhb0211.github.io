@@ -75,6 +75,129 @@ redirect_from:
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
-# 🌍 Visitor Map
+# 🌍 Connect With Me
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
+<div class="social-stats">
+  <div class="stat-item">
+    <span class="stat-number" id="visitor-count">0</span>
+    <span class="stat-label">Visitors</span>
+  </div>
+  <div class="social-links">
+    <a href="mailto:your-email@example.com" class="social-link">📧 Email</a>
+    <a href="https://github.com/yourusername" class="social-link">💻 GitHub</a>
+    <a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link">🎓 Google Scholar</a>
+    <a href="https://linkedin.com/in/yourprofile" class="social-link">💼 LinkedIn</a>
+  </div>
+</div>
+
+<script>
+// 简单的访问计数器
+if (localStorage.pageCount) {
+  localStorage.pageCount = Number(localStorage.pageCount) + 1;
+} else {
+  localStorage.pageCount = 1;
+}
+document.getElementById('visitor-count').textContent = localStorage.pageCount;
+</script>
+
+<style>
+.social-stats {
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 15px;
+  color: white;
+  margin: 30px 0;
+}
+.stat-item {
+  margin-bottom: 20px;
+}
+.stat-number {
+  font-size: 2.5em;
+  font-weight: bold;
+  display: block;
+}
+.stat-label {
+  font-size: 1.2em;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.social-link {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+  transition: all 0.3s;
+}
+.social-link:hover {
+  background: white;
+  color: #f5576c;
+}
+</style>
+
+
+# 📖 Education
+
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="timeline-date">2025.09 – Present</div>
+    <div class="timeline-content">
+      <h3>PhD in Geography</h3>
+      <p><strong>Nanjing University</strong></p>
+      <p>School of Geography and Ocean Science</p>
+      <p>Supervisor: <a href="https://sgos.nju.edu.cn/jxb/list.htm">Dr. Xiaobin Jin</a></p>
+    </div>
+  </div>
+  
+  <div class="timeline-item">
+    <div class="timeline-date">2022.09 – 2025.06</div>
+    <div class="timeline-content">
+      <h3>Master's in Land Resources and Ecological Economics</h3>
+      <p><strong>Jiangxi University of Finance and Economics</strong></p>
+      <p>Institute of Ecological Civilization</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.timeline {
+  position: relative;
+  padding-left: 30px;
+}
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(to bottom, #0366d6, #28a745);
+}
+.timeline-item {
+  position: relative;
+  margin-bottom: 30px;
+  padding-left: 20px;
+}
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -8px;
+  top: 5px;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: #0366d6;
+  border: 2px solid white;
+  box-shadow: 0 0 0 2px #0366d6;
+}
+.timeline-date {
+  font-weight: bold;
+  color: #0366d6;
+  margin-bottom: 5px;
+}
+</style>
