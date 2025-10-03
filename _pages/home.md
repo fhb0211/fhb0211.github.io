@@ -234,21 +234,4 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
-<script>
-// 打字机效果
-document.addEventListener('DOMContentLoaded', function() {
-  const title = document.querySelector('h1');
-  const text = title.textContent;
-  title.textContent = '';
-  let i = 0;
-  function typeWriter() {
-    if (i < text.length) {
-      title.textContent += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 100);
-    }
-  }
-  typeWriter();
-});
-</script>
 
