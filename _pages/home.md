@@ -9,50 +9,21 @@ redirect_from:
 ---
 
 {% include base_path %} 
-<div class="typewriter-container">
-    <h1 class="typewriter-title" id="typewriter-text"></h1>
+<div style="text-align: center; margin: 30px 0;">
+    <h1 id="typewriter-text" style="font-size: 2.5em; font-weight: bold; color: #0366d6;"></h1>
 </div>
-
-<style>
-.typewriter-container {
-    text-align: center;
-    margin: 30px 0;
-}
-.typewriter-title {
-    font-size: 2.5em;
-    font-weight: bold;
-    color: #000000;
-    overflow: hidden;
-    border-right: 3px solid #000000;
-    white-space: nowrap;
-    margin: 0 auto;
-    letter-spacing: 2px;
-    animation: blink-cursor 0.75s step-end infinite;
-}
-@keyframes blink-cursor {
-    from, to { border-color: transparent; }
-    50% { border-color: #000000; }
-}
-@media (max-width: 768px) {
-    .typewriter-title {
-        font-size: 1.2em;
-        letter-spacing: 1px;
-    }
-}
-</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-    const typewriterElement = document.getElementById('typewriter-text');
+    const element = document.getElementById('typewriter-text');
     const text = "😎 Welcome to My Homepage (正在装修中)";
     let i = 0;
-    const speed = 100;
     
     function typeWriter() {
         if (i < text.length) {
-            typewriterElement.innerHTML += text.charAt(i);
+            element.innerHTML += text.charAt(i);
             i++;
-            setTimeout(typeWriter, speed);
+            setTimeout(typeWriter, 100);
         }
     }
     setTimeout(typeWriter, 500);
