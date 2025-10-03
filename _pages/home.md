@@ -215,3 +215,84 @@ document.addEventListener('DOMContentLoaded', function() {
     setTimeout(typeWriter, 500);
 });
 </script>
+
+<div class="typewriter-container">
+    <h1 class="typewriter-title" id="typewriter-text"></h1>
+    <p class="typewriter-subtitle" id="typewriter-subtitle"></p>
+</div>
+
+<style>
+.typewriter-container {
+    text-align: center;
+    margin: 50px 0;
+    padding: 30px;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 15px;
+    color: white;
+}
+
+.typewriter-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    overflow: hidden;
+    border-right: 3px solid white;
+    white-space: nowrap;
+    margin: 0 auto 20px auto;
+    letter-spacing: 2px;
+    animation: blink-cursor 0.75s step-end infinite;
+}
+
+.typewriter-subtitle {
+    font-size: 1.2em;
+    opacity: 0;
+    animation: fadeIn 1s ease-in-out 3s forwards;
+}
+
+@keyframes blink-cursor {
+    from, to { border-color: transparent; }
+    50% { border-color: white; }
+}
+
+@keyframes fadeIn {
+    to { opacity: 1; }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const titleElement = document.getElementById('typewriter-text');
+    const subtitleElement = document.getElementById('typewriter-subtitle');
+    
+    const titleText = "😎 Welcome to My Homepage";
+    const subtitleText = "PhD Candidate in Geography | Sustainable Cities Research";
+    
+    let i = 0;
+    const speed = 80;
+    
+    function typeTitle() {
+        if (i < titleText.length) {
+            titleElement.innerHTML += titleText.charAt(i);
+            i++;
+            setTimeout(typeTitle, speed);
+        } else {
+            // 标题打完后再打副标题
+            setTimeout(typeSubtitle, 1000);
+        }
+    }
+    
+    function typeSubtitle() {
+        subtitleElement.style.opacity = "1";
+        let j = 0;
+        function type() {
+            if (j < subtitleText.length) {
+                subtitleElement.innerHTML += subtitleText.charAt(j);
+                j++;
+                setTimeout(type, speed);
+            }
+        }
+        type();
+    }
+    
+    setTimeout(typeTitle, 500);
+});
+</script>
