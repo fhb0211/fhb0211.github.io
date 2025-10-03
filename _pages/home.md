@@ -169,7 +169,7 @@ document.addEventListener('DOMContentLoaded', function() {
   margin: 30px 0;
 }
 .research-card {
-  background: white;
+  background: transparent;
   padding: 25px;
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
