@@ -35,7 +35,6 @@ document.addEventListener('DOMContentLoaded', function() {
 
 ---
 
-{: style="margin-bottom: 50px;"}
 # 🔥 News 
 
 <table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
@@ -79,7 +78,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table>
 
-{: style="margin-bottom: 50px;"}
 # 📖 Education
 
 <div class="timeline">
@@ -146,7 +144,7 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
-{: style="margin-bottom: 50px;"}
+<div style="height: 50px;"></div>
 # 🔬 Research Interests
 
 <div class="research-cards">
@@ -184,8 +182,9 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
+<div style="height: 50px;"></div>
 # 🌍 Visitor Map
 
-{: style="margin-bottom: 50px;"}
+<div style="height: 50px;"></div>
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
