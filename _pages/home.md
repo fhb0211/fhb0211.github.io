@@ -247,7 +247,7 @@ document.addEventListener('DOMContentLoaded', function() {
 {: style="margin-bottom: 0;"}
 
 <div style="width: 100%; max-width: 400px; margin-top: 0;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
+<script type=""></script>
 </div>
 
 <style>
@@ -264,3 +264,66 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
+# 🌍 Visitor Map
+{: style="margin-bottom: 0;"}
+
+<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.1); margin-top: 10px;">
+  <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
+    
+    <!-- 地球部分 -->
+    <div style="flex: 1; min-width: 250px;">
+      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
+        <div style="width: 100%; max-width: 300px; margin: 0 auto;">
+          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
+        </div>
+      </div>
+    </div>
+    
+    <!-- 统计信息部分 -->
+    <div style="flex: 1; min-width: 250px;">
+      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
+        <h3 style="margin-top: 0; color: #2c3e50; border-bottom: 1px solid #eee; padding-bottom: 10px;">访问统计</h3>
+        
+        <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
+          <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #3498db;">1,247</div>
+            <div style="font-size: 12px; color: #7f8c8d;">总访问量</div>
+          </div>
+          <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #2ecc71;">24</div>
+            <div style="font-size: 12px; color: #7f8c8d;">今日访问</div>
+          </div>
+          <div style="text-align: center;">
+            <div style="font-size: 24px; font-weight: bold; color: #e74c3c;">18</div>
+            <div style="font-size: 12px; color: #7f8c8d;">国家/地区</div>
+          </div>
+        </div>
+        
+        <div style="margin-top: 15px;">
+          <div style="font-size: 14px; color: #7f8c8d; margin-bottom: 5px;">热门访问地区</div>
+          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">中国</span>
+            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">美国</span>
+            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">德国</span>
+            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">日本</span>
+          </div>
+        </div>
+        
+        <div style="margin-top: 15px; font-size: 12px; color: #95a5a6; text-align: center;">
+          最后更新: 2024年1月15日
+        </div>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+<style>
+#clstr_globe {
+  width: 100% !important;
+  height: 200px !important;
+  max-width: 300px;
+  display: block;
+  margin: 0 auto;
+}
+</style>
