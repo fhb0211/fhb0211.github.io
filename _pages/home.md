@@ -244,7 +244,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div style="height: 50px;"></div>
 
 # 🌍 Visitor Map
-<div style="width: 100%; max-width: 400px;">
+<div style="width: 100%; max-width: 10px;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
 </div>
 
@@ -259,6 +259,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </style>
 ---
 <div style="height: 50px;"></div>
+
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
