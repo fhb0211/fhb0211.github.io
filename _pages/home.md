@@ -40,9 +40,9 @@ document.addEventListener('DOMContentLoaded', function() {
 # 🔥 News 
 
 <table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
-<tr>
+<tr class="hover-row">
 <td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 20px rgba(102, 126, 234, 0.2);">
+<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </td>
 <td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
 
@@ -78,6 +78,22 @@ document.addEventListener('DOMContentLoaded', function() {
 </td>
 </tr>
 </table>
+
+<style>
+/* 整行悬停效果 */
+.hover-row {
+  transition: all 0.3s ease !important;
+}
+
+.hover-row:hover {
+  transform: translateY(-3px) !important;
+}
+
+.hover-row:hover img {
+  transform: translateY(-5px) !important;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
+}
+</style>
 ---
 <div style="height: 50px;"></div>
 
@@ -205,110 +221,3 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
-# 🔥 News 
-
-<table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
-<tr>
-<td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); transition: transform 0.3s, box-shadow 0.3s;">
-</td>
-<td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
-
-- 🌈 Our Research Paper was Accepted -- *2025.10*
-  
-- 📝 Title: Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units [Link](https://doi.org/10.1016/j.scs.2025.106865)
-
-- 📘 Journal: _Sustainable Cities and Society_
-
-- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y
-
-- 🎉🎉 Congratulations to all the authors
-</td>
-</tr>
-</table>
-
-<style>
-/* 图片悬停效果 */
-table img {
-  transition: transform 0.3s, box-shadow 0.3s !important;
-}
-
-table img:hover {
-  transform: translateY(-5px) !important;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
-}
-</style>
-
-
-# 🔥 News 
-
-<table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
-<tr>
-<td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</td>
-<td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
-
-- 🌈 Our Research Paper was Accepted -- *2025.10*
-  
-- 📝 Title: Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units [Link](https://doi.org/10.1016/j.scs.2025.106865)
-
-- 📘 Journal: _Sustainable Cities and Society_
-
-- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y
-
-- 🎉🎉 Congratulations to all the authors
-</td>
-</tr>
-</table>
-
-<style>
-/* 图片悬停效果 - 增强版 */
-table img {
-  transition: all 0.3s ease !important;
-  cursor: pointer;
-}
-
-table img:hover {
-  transform: translateY(-8px) scale(1.02) !important;
-  box-shadow: 0 12px 20px rgba(0,0,0,0.25) !important;
-}
-</style>
-
-# 🔥 News 
-
-<table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
-<tr class="hover-row">
-<td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-</td>
-<td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
-
-- 🌈 Our Research Paper was Accepted -- *2025.10*
-  
-- 📝 Title: Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units [Link](https://doi.org/10.1016/j.scs.2025.106865)
-
-- 📘 Journal: _Sustainable Cities and Society_
-
-- 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y
-
-- 🎉🎉 Congratulations to all the authors
-</td>
-</tr>
-</table>
-
-<style>
-/* 整行悬停效果 */
-.hover-row {
-  transition: all 0.3s ease !important;
-}
-
-.hover-row:hover {
-  transform: translateY(-3px) !important;
-}
-
-.hover-row:hover img {
-  transform: translateY(-5px) !important;
-  box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
-}
-</style>
