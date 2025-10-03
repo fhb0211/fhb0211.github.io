@@ -90,12 +90,12 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .hover-row:hover img {
-  transform: translateY(-5px) !important;
+  transform: translateY(-10px) !important;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
 }
 </style>
 ---
-<div style="height: 80px;"></div>
+<div style="height: 50px;"></div>
 
 
 # 📖 Education
