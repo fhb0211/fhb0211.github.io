@@ -255,3 +255,21 @@ document.addEventListener('DOMContentLoaded', function() {
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
 
+# 🌍 Visitor Map
+
+<div style="background: #f8f9fa; padding: 30px; border-radius: 10px; text-align: center; margin: 20px 0;">
+  <h3 style="margin-bottom: 20px; color: #333;">🌎 全球访客分布</h3>
+  
+  <!-- ClustrMaps 地图 -->
+  <div style="margin: 0 auto; display: inline-block;">
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
+  </div>
+  
+  <div style="margin-top: 15px; font-size: 14px; color: #666;">
+    <p>📊 实时统计访客地理位置</p>
+  </div>
+</div>
+
+<div style="margin-bottom: 50px;"></div>
+
+# 👀 其他内容待开发，等有时间再来装修我的主页
