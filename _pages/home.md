@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 {% include base_path %} 
-<div style="text-align: center; margin: 30px 0;">
-    <h1 id="typewriter-text" style="font-size: 2.5em; font-weight: bold; color: #0366d6;"></h1>
+<div style="margin: 20px 0;">
+    <h1 id="typewriter-text" style="font-size: 1em; font-weight: bold; color: #000; text-align: left;"></h1>
 </div>
 
 <script>
