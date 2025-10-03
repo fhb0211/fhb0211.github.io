@@ -86,11 +86,11 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .hover-row:hover {
-  transform: translateY(-3px) !important;
+  transform: translateY(-7px) !important;
 }
 
 .hover-row:hover img {
-  transform: translateY(-20px) !important;
+  transform: translateY(-15px) !important;
   box-shadow: 0 8px 16px rgba(0,0,0,0.2) !important;
 }
 </style>
