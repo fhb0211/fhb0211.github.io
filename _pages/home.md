@@ -165,3 +165,53 @@ redirect_from:
 # 🌍 Visitor Map
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
+
+<div class="typewriter-container">
+    <h1 class="typewriter-title" id="typewriter-text"></h1>
+</div>
+
+<style>
+.typewriter-container {
+    text-align: center;
+    margin: 30px 0;
+}
+.typewriter-title {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #0366d6;
+    overflow: hidden;
+    border-right: 3px solid #0366d6;
+    white-space: nowrap;
+    margin: 0 auto;
+    letter-spacing: 2px;
+    animation: blink-cursor 0.75s step-end infinite;
+}
+@keyframes blink-cursor {
+    from, to { border-color: transparent; }
+    50% { border-color: #0366d6; }
+}
+@media (max-width: 768px) {
+    .typewriter-title {
+        font-size: 1.8em;
+        letter-spacing: 1px;
+    }
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const typewriterElement = document.getElementById('typewriter-text');
+    const text = "😎 Welcome to My Homepage (正在装修中)";
+    let i = 0;
+    const speed = 100;
+    
+    function typeWriter() {
+        if (i < text.length) {
+            typewriterElement.innerHTML += text.charAt(i);
+            i++;
+            setTimeout(typeWriter, speed);
+        }
+    }
+    setTimeout(typeWriter, 500);
+});
+</script>
