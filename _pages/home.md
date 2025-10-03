@@ -148,8 +148,7 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
     <div class="timeline-date">2025.09 – Present</div>
     <div class="timeline-content">
       <h3>PhD in Geography</h3>
-      <p><strong>Nanjing University</strong></p>
-      <p>School of Geography and Ocean Science</p>
+      <p><strong>Nanjing University</strong>, School of Geography and Ocean Science</p>
       <p>Supervisor: <a href="https://sgos.nju.edu.cn/jxb/list.htm">Dr. Xiaobin Jin</a></p>
     </div>
   </div>
@@ -158,8 +157,15 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
     <div class="timeline-date">2022.09 – 2025.06</div>
     <div class="timeline-content">
       <h3>Master's in Land Resources and Ecological Economics</h3>
-      <p><strong>Jiangxi University of Finance and Economics</strong></p>
-      <p>Institute of Ecological Civilization</p>
+      <p><strong>Jiangxi University of Finance and Economics</strong>, Institute of Ecological Civilization</p>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2018.09 – 2022.06</div>
+    <div class="timeline-content">
+      <h3>Bachelor’s in Business Administration</h3>
+      <p><strong>Yichun University</strong>, School of Economics and Management</p>
     </div>
   </div>
 </div>
