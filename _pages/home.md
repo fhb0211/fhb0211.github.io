@@ -75,3 +75,6 @@ redirect_from:
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
+# 🌍 Visitor Map
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=1838a3&w=400&t=tt&d=opzTPaTNgNUrWvD_vjzXkFUMNo05ptM6XPnZfkpH53E&co=ffffff&cmo=af1616&cmn=1fba1f&ct=000000'></script>
