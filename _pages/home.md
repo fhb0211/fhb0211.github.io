@@ -244,15 +244,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div style="height: 50px;"></div>
 
 # 🌍 Visitor Map
-<div style="width: 100%; max-width: 400px; margin-top: 10px;">
+{: style="margin-bottom: 0;"}
+
+<div style="width: 100%; max-width: 250px; margin-top: 0;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
 </div>
 
 <style>
 #clstr_globe {
   width: 100% !important;
-  height: 300px !important;
-  max-width: 400px;
+  height: 200px !important;
+  max-width: 250px;
   display: block;
 }
 </style>
