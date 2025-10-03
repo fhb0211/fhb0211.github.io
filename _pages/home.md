@@ -39,7 +39,7 @@ redirect_from:
 </tr>
 </table>
 
-<table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px; background: #fafbfc;">
+<table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
 <tr>
 <td style="width: 20%; vertical-align: top; padding-right: 20px;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
