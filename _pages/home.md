@@ -267,21 +267,19 @@ document.addEventListener('DOMContentLoaded', function() {
 # 🌍 Visitor Map
 {: style="margin-bottom: 0;"}
 
-<div style="background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); padding: 20px; border-radius: 12px; box-shadow: 0 6px 16px rgba(0,0,0,0.1); margin-top: 10px;">
+<div style="padding: 10px 0; margin-top: 5px;">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     
     <!-- 地球部分 -->
     <div style="flex: 1; min-width: 250px;">
-      <div style="background: white; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
-        <div style="width: 100%; max-width: 300px; margin: 0 auto;">
-          <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
-        </div>
+      <div style="width: 100%; max-width: 300px;">
+        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
       </div>
     </div>
     
     <!-- 统计信息部分 -->
     <div style="flex: 1; min-width: 250px;">
-      <div style="background: white; padding: 20px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.08);">
+      <div>
         <h3 style="margin-top: 0; color: #2c3e50; border-bottom: 1px solid #eee; padding-bottom: 10px;">访问统计</h3>
         
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
@@ -321,7 +319,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <style>
 #clstr_globe {
   width: 100% !important;
-  height: 200px !important;
+  height: 20px !important;
   max-width: 300px;
   display: block;
   margin: 0 auto;
