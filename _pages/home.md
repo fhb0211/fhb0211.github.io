@@ -35,7 +35,7 @@ redirect_from:
 }
 @media (max-width: 768px) {
     .typewriter-title {
-        font-size: 1.8em;
+        font-size: 1.2em;
         letter-spacing: 1px;
     }
 }
