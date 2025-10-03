@@ -59,12 +59,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table>
 
-<table style="width: 100%; border: 1px solid #e1e4e8; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+<table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
 <tr>
-<td style="width: 20%; vertical-align: top; padding-right: 20px;">
+<td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
-<td style="width: 80%; vertical-align: top;" markdown="1">
+<td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
 
 - 🌈 Our Research Paper was Accepted -- *2024.12*
 
@@ -113,6 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 .timeline {
   position: relative;
   padding-left: 30px;
+  font-size: 14px; /* 调整整体字体大小 */
 }
 .timeline::before {
   content: '';
@@ -143,6 +144,15 @@ document.addEventListener('DOMContentLoaded', function() {
 .timeline-date {
   font-weight: bold;
   color: #92CDDC;
+  margin-bottom: 5px;
+  font-size: 16px; /* 日期字体大小 */
+}
+.timeline-content h3 {
+  font-size: 16px; /* 学校名称字体大小 */
+  margin-bottom: 8px;
+}
+.timeline-content p {
+  font-size: 14px; /* 学位信息字体大小 */
   margin-bottom: 5px;
 }
 </style>
