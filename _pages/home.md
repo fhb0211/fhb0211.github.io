@@ -174,7 +174,7 @@ document.addEventListener('DOMContentLoaded', function() {
   border-radius: 10px;
   box-shadow: 0 5px 15px rgba(0,0,0,0.1);
   transition: transform 0.3s;
-  border-left: 4px solid #28a745;
+  border-left: 4px solid;
 }
 .research-card:hover {
   transform: translateY(-5px);
