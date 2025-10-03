@@ -78,8 +78,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </td>
 </tr>
 </table>
-
+---
 <div style="height: 50px;"></div>
+
 
 # 📖 Education
 
@@ -156,7 +157,7 @@ document.addEventListener('DOMContentLoaded', function() {
   margin-bottom: 5px;
 }
 </style>
-
+---
 <div style="height: 50px;"></div>
 
 # 🔬 Research Interests
@@ -195,11 +196,11 @@ document.addEventListener('DOMContentLoaded', function() {
   transform: translateY(-5px);
 }
 </style>
-
+---
 <div style="height: 50px;"></div>
 
 # 🌍 Visitor Map
-
+---
 <div style="height: 50px;"></div>
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
