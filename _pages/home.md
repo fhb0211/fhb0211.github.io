@@ -131,66 +131,35 @@ redirect_from:
 
 <div class="social-stats">
   <div class="stat-item">
-    <span class="stat-number" id="visitor-count">0</span>
-    <span class="stat-label">Visitors</span>
+    <span class="stat-number" id="github-followers">0</span>
+    <span class="stat-label">GitHub Followers</span>
   </div>
-  <div class="social-links">
-    <a href="mailto:your-email@example.com" class="social-link">📧 Email</a>
-    <a href="https://github.com/yourusername" class="social-link">💻 GitHub</a>
-    <a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link">🎓 Google Scholar</a>
-    <a href="https://linkedin.com/in/yourprofile" class="social-link">💼 LinkedIn</a>
+  <div class="stat-item">
+    <span class="stat-number" id="github-repos">0</span>
+    <span class="stat-label">Repositories</span>
   </div>
 </div>
 
 <script>
-// 简单的访问计数器
-if (localStorage.pageCount) {
-  localStorage.pageCount = Number(localStorage.pageCount) + 1;
-} else {
-  localStorage.pageCount = 1;
-}
-document.getElementById('visitor-count').textContent = localStorage.pageCount;
+// GitHub 数据统计
+document.addEventListener('DOMContentLoaded', function() {
+  const username = 'fhb0211'; // 替换为你的GitHub用户名
+  
+  // 获取用户信息
+  fetch(`https://api.github.com/users/${username}`)
+    .then(response => response.json())
+    .then(data => {
+      document.getElementById('github-followers').textContent = data.followers;
+      document.getElementById('github-repos').textContent = data.public_repos;
+    })
+    .catch(error => {
+      console.log('GitHub API error:', error);
+      document.getElementById('github-followers').textContent = 'N/A';
+      document.getElementById('github-repos').textContent = 'N/A';
+    });
+});
 </script>
 
-<style>
-.social-stats {
-  text-align: center;
-  padding: 30px;
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-  border-radius: 15px;
-  color: white;
-  margin: 30px 0;
-}
-.stat-item {
-  margin-bottom: 20px;
-}
-.stat-number {
-  font-size: 2.5em;
-  font-weight: bold;
-  display: block;
-}
-.stat-label {
-  font-size: 1.2em;
-}
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-.social-link {
-  color: white;
-  text-decoration: none;
-  padding: 10px 20px;
-  border: 2px solid white;
-  border-radius: 25px;
-  transition: all 0.3s;
-}
-.social-link:hover {
-  background: white;
-  color: #f5576c;
-}
-</style>
 
 # 💻 Skills & Expertise
 
