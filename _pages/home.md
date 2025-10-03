@@ -246,26 +246,21 @@ document.addEventListener('DOMContentLoaded', function() {
 # 🌍 Visitor Map
 
 <div align="center">
+<div style="width: 100%; max-width: 400px; margin: 0 auto;">
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
-</div>
-
----
-<div style="height: 50px;"></div>
-
-# 👀 其他内容待开发，等有时间再来装修我的主页
-
-<div align="center">
-<div style="width: 100%; max-width: 600px; margin: 0 auto; overflow: hidden; border-radius: 8px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
-</div>
 </div>
 
 <style>
 #clstr_globe {
   width: 100% !important;
-  height: 400px !important;
-  max-width: 600px;
+  height: 300px !important;
+  max-width: 400px;
   margin: 0 auto;
   display: block;
 }
 </style>
+---
+<div style="height: 50px;"></div>
+
+# 👀 其他内容待开发，等有时间再来装修我的主页
+
