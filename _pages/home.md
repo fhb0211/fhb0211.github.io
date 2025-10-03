@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', function() {
   flex-grow: 1; /* 让内容区域填充剩余空间 */
 }
 .research-card:hover {
-  transform: translateY(-5px);
+  transform: translateY(-10px);
 }
 </style>
 ---
