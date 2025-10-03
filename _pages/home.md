@@ -59,87 +59,7 @@ redirect_from:
 </tr>
 </table>
 
-# 📖 Educations
-
-- *2025.09 – Present*: **School of Geography and Ocean Science, Nanjing University**
-  
-  *- PhD in Geography, Science Degree, Supervisors: [Dr. Xiaobin Jin](https://sgos.nju.edu.cn/jxb/list.htm)*
-
-- *2022.09 – 2025.06*: **Institute of Ecological Civilization, Jiangxi University of Finance and Economics**
-  
-  *- Master’s in Land Resources and Ecological Economics, Economics Degree*
-
-- *2018.09 – 2022.06*: **School of Economics and Management, Yichun University**
-  
-  *- Bachelor’s in Business Administration, Management Degree*
-
 # 👀 其他内容待开发，等有时间再来装修我的主页
-
-# 🌍 Connect With Me
-
-<div class="social-stats">
-  <div class="stat-item">
-    <span class="stat-number" id="visitor-count">0</span>
-    <span class="stat-label">Visitors</span>
-  </div>
-  <div class="social-links">
-    <a href="mailto:your-email@example.com" class="social-link">📧 Email</a>
-    <a href="https://github.com/yourusername" class="social-link">💻 GitHub</a>
-    <a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link">🎓 Google Scholar</a>
-    <a href="https://linkedin.com/in/yourprofile" class="social-link">💼 LinkedIn</a>
-  </div>
-</div>
-
-<script>
-// 简单的访问计数器
-if (localStorage.pageCount) {
-  localStorage.pageCount = Number(localStorage.pageCount) + 1;
-} else {
-  localStorage.pageCount = 1;
-}
-document.getElementById('visitor-count').textContent = localStorage.pageCount;
-</script>
-
-<style>
-.social-stats {
-  text-align: center;
-  padding: 30px;
-  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-  border-radius: 15px;
-  color: white;
-  margin: 30px 0;
-}
-.stat-item {
-  margin-bottom: 20px;
-}
-.stat-number {
-  font-size: 2.5em;
-  font-weight: bold;
-  display: block;
-}
-.stat-label {
-  font-size: 1.2em;
-}
-.social-links {
-  display: flex;
-  justify-content: center;
-  gap: 20px;
-  flex-wrap: wrap;
-}
-.social-link {
-  color: white;
-  text-decoration: none;
-  padding: 10px 20px;
-  border: 2px solid white;
-  border-radius: 25px;
-  transition: all 0.3s;
-}
-.social-link:hover {
-  background: white;
-  color: #f5576c;
-}
-</style>
-
 
 # 📖 Education
 
@@ -206,3 +126,160 @@ document.getElementById('visitor-count').textContent = localStorage.pageCount;
   margin-bottom: 5px;
 }
 </style>
+
+# 🌍 Visitor Map
+
+<div class="social-stats">
+  <div class="stat-item">
+    <span class="stat-number" id="visitor-count">0</span>
+    <span class="stat-label">Visitors</span>
+  </div>
+  <div class="social-links">
+    <a href="mailto:your-email@example.com" class="social-link">📧 Email</a>
+    <a href="https://github.com/yourusername" class="social-link">💻 GitHub</a>
+    <a href="https://scholar.google.com/citations?user=YOUR_ID" class="social-link">🎓 Google Scholar</a>
+    <a href="https://linkedin.com/in/yourprofile" class="social-link">💼 LinkedIn</a>
+  </div>
+</div>
+
+<script>
+// 简单的访问计数器
+if (localStorage.pageCount) {
+  localStorage.pageCount = Number(localStorage.pageCount) + 1;
+} else {
+  localStorage.pageCount = 1;
+}
+document.getElementById('visitor-count').textContent = localStorage.pageCount;
+</script>
+
+<style>
+.social-stats {
+  text-align: center;
+  padding: 30px;
+  background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
+  border-radius: 15px;
+  color: white;
+  margin: 30px 0;
+}
+.stat-item {
+  margin-bottom: 20px;
+}
+.stat-number {
+  font-size: 2.5em;
+  font-weight: bold;
+  display: block;
+}
+.stat-label {
+  font-size: 1.2em;
+}
+.social-links {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+.social-link {
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+  transition: all 0.3s;
+}
+.social-link:hover {
+  background: white;
+  color: #f5576c;
+}
+</style>
+
+# 💻 Skills & Expertise
+
+<div class="skills-cloud">
+  <span class="skill-tag">Geographic Information System</span>
+  <span class="skill-tag">Remote Sensing</span>
+  <span class="skill-tag">Carbon Neutrality</span>
+  <span class="skill-tag">Land Use Planning</span>
+  <span class="skill-tag">Machine Learning</span>
+  <span class="skill-tag">Spatial Analysis</span>
+  <span class="skill-tag">Environmental Impact</span>
+  <span class="skill-tag">Data Visualization</span>
+  <span class="skill-tag">Python</span>
+  <span class="skill-tag">R</span>
+</div>
+
+<style>
+.skills-cloud {
+  text-align: center;
+  margin: 20px 0;
+}
+.skill-tag {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  color: white;
+  padding: 8px 15px;
+  margin: 5px;
+  border-radius: 20px;
+  font-size: 14px;
+  transition: transform 0.3s;
+}
+.skill-tag:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+</style>
+
+# 🔬 Research Interests
+
+<div class="research-cards">
+  <div class="research-card">
+    <h3>🌿 Land Use Carbon Emissions</h3>
+    <p>Investigating the relationship between land use patterns and carbon neutrality</p>
+  </div>
+  <div class="research-card">
+    <h3>🏙️ Sustainable Cities</h3>
+    <p>Urban planning strategies for environmental sustainability</p>
+  </div>
+  <div class="research-card">
+    <h3>📊 Spatial Analysis</h3>
+    <p>Advanced geospatial techniques for environmental research</p>
+  </div>
+</div>
+
+<style>
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+.research-card {
+  background: white;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+  border-left: 4px solid #28a745;
+}
+.research-card:hover {
+  transform: translateY(-5px);
+}
+</style>
+
+<script>
+// 打字机效果
+document.addEventListener('DOMContentLoaded', function() {
+  const title = document.querySelector('h1');
+  const text = title.textContent;
+  title.textContent = '';
+  let i = 0;
+  function typeWriter() {
+    if (i < text.length) {
+      title.textContent += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100);
+    }
+  }
+  typeWriter();
+});
+</script>
+
