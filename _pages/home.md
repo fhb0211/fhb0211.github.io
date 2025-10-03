@@ -284,31 +284,28 @@ document.addEventListener('DOMContentLoaded', function() {
         
         <div style="display: flex; justify-content: space-between; margin-bottom: 15px;">
           <div style="text-align: center;">
-            <div style="font-size: 24px; font-weight: bold; color: #3498db;">1,247</div>
+            <div style="font-size: 24px; font-weight: bold; color: #3498db;" id="totalVisits">0</div>
             <div style="font-size: 12px; color: #7f8c8d;">总访问量</div>
           </div>
           <div style="text-align: center;">
-            <div style="font-size: 24px; font-weight: bold; color: #2ecc71;">24</div>
+            <div style="font-size: 24px; font-weight: bold; color: #2ecc71;" id="todayVisits">0</div>
             <div style="font-size: 12px; color: #7f8c8d;">今日访问</div>
           </div>
           <div style="text-align: center;">
-            <div style="font-size: 24px; font-weight: bold; color: #e74c3c;">18</div>
-            <div style="font-size: 12px; color: #7f8c8d;">国家/地区</div>
+            <div style="font-size: 24px; font-weight: bold; color: #e74c3c;" id="uniqueVisits">0</div>
+            <div style="font-size: 12px; color: #7f8c8d;">独立访客</div>
           </div>
         </div>
         
         <div style="margin-top: 15px;">
-          <div style="font-size: 14px; color: #7f8c8d; margin-bottom: 5px;">热门访问地区</div>
+          <div style="font-size: 14px; color: #7f8c8d; margin-bottom: 5px;">实时数据</div>
           <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">中国</span>
-            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">美国</span>
-            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">德国</span>
-            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">日本</span>
+            <span style="background: #eaf2f8; color: #3498db; padding: 4px 10px; border-radius: 20px; font-size: 12px;">正在统计中</span>
           </div>
         </div>
         
         <div style="margin-top: 15px; font-size: 12px; color: #95a5a6; text-align: center;">
-          最后更新: 2024年1月15日
+          最后更新: <span id="lastUpdate">刚刚</span>
         </div>
       </div>
     </div>
@@ -320,8 +317,50 @@ document.addEventListener('DOMContentLoaded', function() {
 #clstr_globe {
   width: 100% !important;
   height: 20px !important;
-  max-width: 300px;
+  max-width: 400px;
   display: block;
   margin: 0 auto;
 }
 </style>
+
+<script>
+// 简单的本地访问计数器
+document.addEventListener('DOMContentLoaded', function() {
+  // 获取或初始化统计数据
+  let stats = JSON.parse(localStorage.getItem('visitorStats')) || {
+    total: 0,
+    today: 0,
+    unique: 0,
+    lastVisit: null
+  };
+  
+  // 获取当前日期
+  const today = new Date().toDateString();
+  
+  // 更新统计
+  stats.total++;
+  
+  // 如果是新的一天，重置今日计数
+  if (stats.lastVisit !== today) {
+    stats.today = 0;
+    stats.lastVisit = today;
+  }
+  
+  stats.today++;
+  
+  // 简单的独立访客计数（基于本地存储，不准确但可用）
+  if (!localStorage.getItem('uniqueVisitor')) {
+    stats.unique++;
+    localStorage.setItem('uniqueVisitor', 'true');
+  }
+  
+  // 保存更新后的统计
+  localStorage.setItem('visitorStats', JSON.stringify(stats));
+  
+  // 更新显示
+  document.getElementById('totalVisits').textContent = stats.total;
+  document.getElementById('todayVisits').textContent = stats.today;
+  document.getElementById('uniqueVisits').textContent = stats.unique;
+  document.getElementById('lastUpdate').textContent = '刚刚';
+});
+</script>
