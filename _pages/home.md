@@ -39,13 +39,12 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 🔥 News 
 
-<table style="width: 100%; border: 1px solid transparent; border-radius: 6px; padding: 15px; margin-bottom: 20px;">
+<table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
 <tr>
-<td style="width: 20%; vertical-align: top; padding-right: 20px;">
+<td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
 <img src='/images/paper/EIAR1.png' alt="sym" style="width: 100%; border-radius: 4px;">
 </td>
-<td style="width: 80%; vertical-align: top;" markdown="1">
-
+<td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
 
 - 🌈 Our Research Paper was Accepted -- *2025.10*
   
