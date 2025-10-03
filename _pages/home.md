@@ -54,7 +54,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - 👨🏻‍🎓 Authors: **Fan, H.**, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y
 
-- 🎉🎉 Congratulations to all the authors
+- 🎉🎉 Congratulations to all the authors!
 </td>
 </tr>
 </table>
@@ -74,7 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 - 👨🏻‍🎓 Authors: **Fan, H.**, Zhang, X., Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T
 
-- 🎉🎉 Congratulations to all the authors
+- 🎉🎉 Congratulations to all the authors!
 </td>
 </tr>
 </table>
@@ -180,7 +180,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="research-cards">
   <div class="research-card">
-    <h3>🌿 Land Use Carbon Emissions</h3>
+    <h3>🌾 Farmland Protection</h3>
     <p>Investigating the relationship between land use patterns and carbon neutrality</p>
   </div>
   <div class="research-card">
@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
     <p>Urban planning strategies for environmental sustainability</p>
   </div>
   <div class="research-card">
-    <h3>📊 Spatial Analysis</h3>
+    <h3>🏞 Ecological Restoration</h3>
     <p>Advanced geospatial techniques for environmental research</p>
   </div>
 </div>
@@ -221,3 +221,67 @@ document.addEventListener('DOMContentLoaded', function() {
 
 # 👀 其他内容待开发，等有时间再来装修我的主页
 
+# 🔬 Research Interests
+
+<div class="research-cards">
+  <div class="research-card">
+    <div class="card-header">
+      <h3>🌾 Farmland Protection</h3>
+    </div>
+    <div class="card-content">
+      <p>Investigating the relationship between land use patterns and carbon neutrality</p>
+    </div>
+  </div>
+  <div class="research-card">
+    <div class="card-header">
+      <h3>🏙️ Sustainable Cities</h3>
+    </div>
+    <div class="card-content">
+      <p>Urban planning strategies for environmental sustainability</p>
+    </div>
+  </div>
+  <div class="research-card">
+    <div class="card-header">
+      <h3>🏞 Ecological Restoration</h3>
+    </div>
+    <div class="card-content">
+      <p>Advanced geospatial techniques for environmental research</p>
+    </div>
+  </div>
+</div>
+
+<style>
+.research-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 20px;
+  margin: 30px 0;
+}
+.research-card {
+  background: transparent;
+  padding: 0; /* 移除卡片的内边距 */
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+  transition: transform 0.3s;
+  border-left: 4px solid;
+  display: flex;
+  flex-direction: column;
+  height: 100%; /* 确保卡片高度一致 */
+}
+.card-header {
+  padding: 20px 20px 10px; /* 上 左右 下 */
+  border-bottom: 1px solid rgba(0,0,0,0.1); /* 可选：添加分隔线 */
+}
+.card-header h3 {
+  margin: 0; /* 移除h3的默认外边距 */
+  font-size: 18px;
+  font-weight: bold;
+}
+.card-content {
+  padding: 10px 20px 20px; /* 上 左右 下 */
+  flex-grow: 1; /* 让内容区域填充剩余空间 */
+}
+.research-card:hover {
+  transform: translateY(-5px);
+}
+</style>
