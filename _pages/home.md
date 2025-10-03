@@ -59,8 +59,6 @@ redirect_from:
 </tr>
 </table>
 
-# 👀 其他内容待开发，等有时间再来装修我的主页
-
 # 📖 Education
 
 <div class="timeline">
@@ -127,76 +125,6 @@ redirect_from:
 }
 </style>
 
-# 🌍 Visitor Map
-
-<div class="social-stats">
-  <div class="stat-item">
-    <span class="stat-number" id="github-followers">0</span>
-    <span class="stat-label">GitHub Followers</span>
-  </div>
-  <div class="stat-item">
-    <span class="stat-number" id="github-repos">0</span>
-    <span class="stat-label">Repositories</span>
-  </div>
-</div>
-
-<script>
-// GitHub 数据统计
-document.addEventListener('DOMContentLoaded', function() {
-  const username = 'fhb0211'; // 替换为你的GitHub用户名
-  
-  // 获取用户信息
-  fetch(`https://api.github.com/users/${username}`)
-    .then(response => response.json())
-    .then(data => {
-      document.getElementById('github-followers').textContent = data.followers;
-      document.getElementById('github-repos').textContent = data.public_repos;
-    })
-    .catch(error => {
-      console.log('GitHub API error:', error);
-      document.getElementById('github-followers').textContent = 'N/A';
-      document.getElementById('github-repos').textContent = 'N/A';
-    });
-});
-</script>
-
-
-# 💻 Skills & Expertise
-
-<div class="skills-cloud">
-  <span class="skill-tag">Geographic Information System</span>
-  <span class="skill-tag">Remote Sensing</span>
-  <span class="skill-tag">Carbon Neutrality</span>
-  <span class="skill-tag">Land Use Planning</span>
-  <span class="skill-tag">Machine Learning</span>
-  <span class="skill-tag">Spatial Analysis</span>
-  <span class="skill-tag">Environmental Impact</span>
-  <span class="skill-tag">Data Visualization</span>
-  <span class="skill-tag">Python</span>
-  <span class="skill-tag">R</span>
-</div>
-
-<style>
-.skills-cloud {
-  text-align: center;
-  margin: 20px 0;
-}
-.skill-tag {
-  display: inline-block;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-  color: white;
-  padding: 8px 15px;
-  margin: 5px;
-  border-radius: 20px;
-  font-size: 14px;
-  transition: transform 0.3s;
-}
-.skill-tag:hover {
-  transform: translateY(-2px);
-  box-shadow: 0 5px 15px rgba(0,0,0,0.2);
-}
-</style>
-
 # 🔬 Research Interests
 
 <div class="research-cards">
@@ -234,4 +162,6 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 
+# 🌍 Visitor Map
 
+# 👀 其他内容待开发，等有时间再来装修我的主页
