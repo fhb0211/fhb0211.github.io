@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 </style>
 ---
-<div style="height: 50px;"></div>
+<div style="height: 80px;"></div>
 
 
 # 📖 Education
