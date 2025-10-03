@@ -253,7 +253,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <style>
 #clstr_globe {
   width: 100% !important;
-  height: 5px !important;
+  height: 20px !important;
   max-width: 400px;
   display: block;
 }
