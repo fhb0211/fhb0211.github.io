@@ -180,56 +180,11 @@ document.addEventListener('DOMContentLoaded', function() {
 
 <div class="research-cards">
   <div class="research-card">
-    <h3>🌾 Farmland Protection</h3>
-    <p>Investigating the relationship between land use patterns and carbon neutrality</p>
-  </div>
-  <div class="research-card">
-    <h3>🏙️ Sustainable Cities</h3>
-    <p>Urban planning strategies for environmental sustainability</p>
-  </div>
-  <div class="research-card">
-    <h3>🏞 Ecological Restoration</h3>
-    <p>Advanced geospatial techniques for environmental research</p>
-  </div>
-</div>
-
-<style>
-.research-cards {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
-}
-.research-card {
-  background: transparent;
-  padding: 25px;
-  border-radius: 10px;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-  transition: transform 0.3s;
-  border-left: 4px solid;
-}
-.research-card:hover {
-  transform: translateY(-5px);
-}
-</style>
----
-<div style="height: 50px;"></div>
-
-# 🌍 Visitor Map
----
-<div style="height: 50px;"></div>
-
-# 👀 其他内容待开发，等有时间再来装修我的主页
-
-# 🔬 Research Interests
-
-<div class="research-cards">
-  <div class="research-card">
     <div class="card-header">
       <h3>🌾 Farmland Protection</h3>
     </div>
     <div class="card-content">
-      <p>Investigating the relationship between land use patterns and carbon neutrality</p>
+      <p>To be updated</p>
     </div>
   </div>
   <div class="research-card">
@@ -237,15 +192,15 @@ document.addEventListener('DOMContentLoaded', function() {
       <h3>🏙️ Sustainable Cities</h3>
     </div>
     <div class="card-content">
-      <p>Urban planning strategies for environmental sustainability</p>
+      <p>To be updated</p>
     </div>
   </div>
   <div class="research-card">
     <div class="card-header">
-      <h3>🏞 Ecological Restoration</h3>
+      <h3>🌳 Ecological Restoration</h3>
     </div>
     <div class="card-content">
-      <p>Advanced geospatial techniques for environmental research</p>
+      <p>To be updated</p>
     </div>
   </div>
 </div>
@@ -285,3 +240,13 @@ document.addEventListener('DOMContentLoaded', function() {
   transform: translateY(-5px);
 }
 </style>
+---
+<div style="height: 50px;"></div>
+
+# 🌍 Visitor Map
+---
+<div style="height: 50px;"></div>
+
+# 👀 其他内容待开发，等有时间再来装修我的主页
+
+
