@@ -246,27 +246,6 @@ document.addEventListener('DOMContentLoaded', function() {
 # 🌍 Visitor Map
 {: style="margin-bottom: 0;"}
 
-<div style="width: 100%; max-width: 400px; margin-top: 0;">
-<script type=""></script>
-</div>
-
-<style>
-#clstr_globe {
-  width: 100% !important;
-  height: 20px !important;
-  max-width: 500px;
-  display: block;
-}
-</style>
----
-<div style="height: 50px;"></div>
-
-
-# 👀 其他内容待开发，等有时间再来装修我的主页
-
-# 🌍 Visitor Map
-{: style="margin-bottom: 0;"}
-
 <div style="padding: 10px 0; margin-top: 5px;">
   <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
     
@@ -325,3 +304,10 @@ document.addEventListener('DOMContentLoaded', function() {
   margin: 0 auto;
 }
 </style>
+---
+<div style="height: 50px;"></div>
+
+
+# 👀 其他内容待开发，等有时间再来装修我的主页
+
+
