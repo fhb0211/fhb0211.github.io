@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <table style="width: 100%; border: none; border-collapse: collapse; padding: 15px; margin-bottom: 20px; background: transparent;">
 <tr class="hover-row">
 <td style="width: 20%; vertical-align: top; padding-right: 20px; border: none;">
-<img src='/images/paper/SCS1.png' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<img src='/images/paper/SCS1.PNG' alt="sym" style="width: 100%; border-radius: 4px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 </td>
 <td style="width: 80%; vertical-align: top; border: none; padding-left: 20px;" markdown="1">
 
@@ -247,7 +247,7 @@ document.addEventListener('DOMContentLoaded', function() {
 {: style="margin-bottom: 0;"}
 
 <div style="width: 100%; max-width: 400px; margin-top: 0;">
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
+<script type=""></script>
 </div>
 
 <style>
@@ -289,7 +289,7 @@ document.addEventListener('DOMContentLoaded', function() {
           </div>
           <div style="text-align: center;">
             <div style="font-size: 24px; font-weight: bold; color: #2ecc71;">24</div>
-            <div style="font-size: 12px; color: #7f8c8d;">Today visit</div>
+            <div style="font-size: 12px; color: #7f8c8d;">Today's visits</div>
           </div>
           <div style="text-align: center;">
             <div style="font-size: 24px; font-weight: bold; color: #e74c3c;">18</div>
@@ -308,7 +308,7 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
         
         <div style="margin-top: 15px; font-size: 12px; color: #95a5a6; text-align: center;">
-          Last updated: October 1,2025 (I will not operate, the data is wrong🤭)
+          Last updated: October 1, 2025 (I will not operate, the data is wrong🤭)
         </div>
       </div>
     </div>
