@@ -19,9 +19,9 @@ author_profile: true
 - 🎉🎉 *2023.11* :  Top Ten Academic Stars of Jiangxi University of Finance and Economics
 
 # 🐱‍🏍 Subject Competition
-- 🎉🎉 *2024.11* :  China College Students' Innovation Competition (2024) | Provincial Silver Prize | Rank 2/15
-- 🎉🎉 *2024.07* :  The 10th National College Student Statistical Modeling Competition | Provincial Second Prize | Rank 1/3
-- 🎉🎉 *2024.05* :  The 14th "Challenge Cup" China College Student Business Plan Competition | Provincial Bronze Prize | Rank 15/15
-- 🎉🎉 *2024.05* :  Mathematical Contest in Modeling (MCM 2024) | Honorable Mention | Rank 1/3
-- 🎉🎉 *2024.04* :  The 11th "Sharing Cup" Science and Technology Resource Sharing & Innovation Competition (First Earth System Science Sub-Competition) | National First Prize | Rank 1/1
-- 🎉🎉 *2023.12* :  The 11th "Huachuang Cup" Market Survey and Analysis Competition of Jiangxi Province | Provincial First Prize | Rank 1/6
+- 🎉🎉 *2024.11* :  China College Students' Innovation Competition (2024), Provincial Silver Prize, Rank 2/15
+- 🎉🎉 *2024.07* :  The 10th National College Student Statistical Modeling Competition, Provincial Second Prize, Rank 1/3
+- 🎉🎉 *2024.05* :  The 14th "Challenge Cup" China College Student Business Plan Competition, Provincial Bronze Prize, Rank 15/15
+- 🎉🎉 *2024.05* :  Mathematical Contest in Modeling (MCM 2024), Honorable Mention, Rank 1/3
+- 🎉🎉 *2024.04* :  The 11th "Sharing Cup" Science and Technology Resource Sharing & Innovation Competition (First Earth System Science Sub-Competition), National First Prize, Rank 1/1
+- 🎉🎉 *2023.12* :  The 11th "Huachuang Cup" Market Survey and Analysis Competition of Jiangxi Province, Provincial First Prize, Rank 1/6
