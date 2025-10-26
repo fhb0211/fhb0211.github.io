@@ -9,6 +9,7 @@ Total citations = 260; H-index = 8  [Google Scholar](https://scholar.google.com/
 
 ⏰ 2026
 =====
+[21] 朱晓勇, <strong>樊后宝*</strong>. (2026). "	基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 1-21. [Link](http://stbcyj.paperonce.org/)
 [20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 1-21. [Link](https://www.hjkx.ac.cn/ch/index.aspx)
 
 ⏰ 2025
