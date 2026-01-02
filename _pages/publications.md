@@ -9,10 +9,10 @@ Total citations = 330; H-index = 10  [Google Scholar](https://scholar.google.com
 
 ⏰ 2026
 =====
-[24] Han Hu, Kegao Yan, Yafei Wang, Yuan Huang, <strong>Houbao Fan</strong>, Yanchen Wu. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
+[24] Hu, H., Yan, K., Wang, Y., Huang, Y., <strong>Fan, H.</strong>, Wu, Y. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
 [23] 杨玉怀, <strong>樊后宝* </strong>. (2026). "基于主体功能区的江苏省土地利用碳排放研究". _干旱区资源与环境_, 1-21. [Link](https://ghzh.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=ghzh)\
 [22] 朱晓勇, <strong>樊后宝* </strong>. (2026). "	基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 1-21. [Link](http://stbcyj.paperonce.org/)\
-[21] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _自然资源学报_, 1-21. [Link](https://www.jnr.ac.cn/CN/home)\
+[21] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "面向中国全域土地综合整治的低碳化技术研究进展——基于专利与学术文献的计量分析". _自然资源学报_, 1-21. [Link](https://www.jnr.ac.cn/CN/home)\
 [20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 1-21. [Link](https://www.hjkx.ac.cn/ch/index.aspx)
 
 ⏰ 2025
