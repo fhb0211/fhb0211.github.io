@@ -9,10 +9,13 @@ Total citations = 330; H-index = 10  [Google Scholar](https://scholar.google.com
 
 ⏰ 2026
 =====
-[24] Hu, H., Yan, K., Wang, Y., Huang, Y., <strong>Fan, H.</strong>, Wu, Y. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
-[23] 杨玉怀, <strong>樊后宝* </strong>. (2026). "基于主体功能区的江苏省土地利用碳排放研究". _干旱区资源与环境_, 1-21. [Link](https://ghzh.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=ghzh)\
-[22] 朱晓勇, <strong>樊后宝* </strong>. (2026). "	基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 1-21. [Link](http://stbcyj.paperonce.org/)\
-[21] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "面向中国全域土地综合整治的低碳化技术研究进展——基于专利与学术文献的计量分析". _自然资源学报_, 1-21. [Link](https://www.jnr.ac.cn/CN/home)\
+[27] Liang, K., Jin, X., Zhang, X., Han, B., Song, J., Zhu, J., <strong>Fan, H.</strong>, Zhou, Y. (2026). "Evaluating Cropland Restoration and Reclamation Strategies for Sustainable Land Management: Insights from China". _Resources, Environment and Sustainability_, 1-21. [Link](https://www.sciencedirect.com/journal/resources-environment-and-sustainability)\
+[26] Fu, S., Liao, Y., Lv, T., Zhao, Q., Chen, A., Yuan, M., Hu, C., <strong>Fan, H</strong>. (2026). "Driving factors and multi-scenario simulation of ecological resilience in the middle reaches of the Yangtze River metropolitan area". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
+[25] Hu, H., Yan, K., Wang, Y., Huang, Y., <strong>Fan, H.</strong>, Wu, Y. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
+[24] 杨玉怀, <strong>樊后宝* </strong>. (2026). "基于主体功能区的江苏省土地利用碳排放研究". _干旱区资源与环境_, 1-21. [Link](https://ghzh.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=ghzh)\
+[23] 朱晓勇, <strong>樊后宝* </strong>. (2026). "	基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 1-21. [Link](http://stbcyj.paperonce.org/)\
+[22] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "面向中国全域土地综合整治的低碳化技术研究进展——基于专利与学术文献的计量分析". _自然资源学报_, 1-21. [Link](https://www.jnr.ac.cn/CN/home)\
+[21] 石雨航, 金晓斌, <strong>樊后宝</strong>, 梁坤宇, 韩博, 陈浮, 孙燕, 周寅康. (2026). "基于反事实准自然实验的生态保护红线绩效评估——以江苏省为例". _生态学报_, 1-21. [Link](https://www.ecologica.cn/stxb/home)\
 [20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 1-21. [Link](https://www.hjkx.ac.cn/ch/index.aspx)
 
 ⏰ 2025
@@ -30,10 +33,10 @@ Total citations = 330; H-index = 10  [Google Scholar](https://scholar.google.com
 =====
 [11] Zhang, X., <strong>Fan, H.</strong>, Sun, L., Liu, W., Wang, C., Wu, Z., Lv, T. (2024). "Identifying regional eco-environment quality and its influencing factors: A case study of an ecological civilization pilot zone in China". _Journal of Cleaner Production_, 435, 140308. [Link](https://doi.org/10.1016/j.jclepro.2023.140308)\
 [10] Zhang, X., <strong>Fan, H.</strong>, Hou, H., Xu, C., Sun, L., Li, Q., Ren, J. (2024). "Spatiotemporal evolution and multi-scale coupling effects of land-use carbon emissions and ecological environmental quality". _Science of the Total Environment_, 922, 171149. [Link](https://doi.org/10.1016/j.scitotenv.2024.171149)\
-[9] Li, Q., Ge, J., Huang, M., Wu, X., <strong>Fan, H.* </strong>. (2024). "Uncovering the triple synergy of new-type urbanization, greening and digitalization in China". _Land_, 13(7), 1017. [Link](https://doi.org/10.3390/land13071017)\
+[9] Li, Q., Ge, J., Huang, M., Wu, X., <strong>Fan, H* </strong>. (2024). "Uncovering the triple synergy of new-type urbanization, greening and digitalization in China". _Land_, 13(7), 1017. [Link](https://doi.org/10.3390/land13071017)\
 [8] Hu, H., Yan, K., <strong>Fan, H.</strong>, Lv, T., Zhang, X. (2024). "How to decipher the environmental resilience performance? A case study of Yangtze River Delta Urban Agglomeration". _Physics and Chemistry of the Earth_, 136, 103725. [Link](https://doi.org/10.1016/j.pce.2024.103725)\
 [7] Lv, T., Hu, H., Han, H., Zhang, X., <strong>Fan, H.</strong>, Yan, K. (2024). "Towards sustainability: The spatiotemporal patterns and impact mechanism of urban sprawl intensity in the Yangtze River Delta Urban Agglomeration". _Habitat International_, 148, 103089. [Link](https://doi.org/10.1016/j.habitatint.2024.103089)\
-[6] Li, Q., Ge, J., <strong>Fan, H.</strong>. (2024). "Unveiling the impact of synergy between digitalization and greening on urban employment in China". _Scientific Reports_, 14(1), 27773. [Link](https://doi.org/10.1038/s41598-024-79112-9)\
+[6] Li, Q., Ge, J., <strong>Fan, H</strong>. (2024). "Unveiling the impact of synergy between digitalization and greening on urban employment in China". _Scientific Reports_, 14(1), 27773. [Link](https://doi.org/10.1038/s41598-024-79112-9)\
 [5] Hu, H., Yan, K., <strong>Fan, H.</strong>, Lv, T., Zhang, X. (2024). "Detecting regional unevenness and influencing factors of ecological resilience in China". _Energy & Environment_, 34(8). [Link](https://doi.org/10.1177/0958305X241230619)\
 [4] Zhang, X., Wan, W., <strong>Fan, H.</strong>, Dong, X., Lv, T. (2024). "Temporal and spatial responses of landscape patterns to habitat quality changes in the Poyang Lake region, China". _Journal for Nature Conservation_, 77, 126546. [Link](https://doi.org/10.1016/j.jnc.2023.126546)\
 [3] 汪立, <strong>樊后宝</strong>, 武子豪, 吕添贵, 谭永忠. (2024). "川东丘陵区耕层土壤有机碳含量空间格局及影响因素". _农业工程学报_, 40 (23): 169-178. [Link](10.11975/j.issn.1002-6819.202405077)
