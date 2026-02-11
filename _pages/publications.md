@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Total citations = 330; H-index = 10  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ZHcRMhgAAAAJ) 
+Total citations = 350; H-index = 10  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ZHcRMhgAAAAJ) 
 
 ⏰ 2026
 =====
