@@ -5,22 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-Total citations = 350; H-index = 10  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ZHcRMhgAAAAJ) 
+Total citations = 420; H-index = 10  [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=zh-CN&user=ZHcRMhgAAAAJ) 
 
 ⏰ 2026
 =====
-[27] Liang, K., Jin, X., Zhang, X., Han, B., Song, J., Zhu, J., <strong>Fan, H.</strong>, Zhou, Y. (2026). "Evaluating Cropland Restoration and Reclamation Strategies for Sustainable Land Management: Insights from China". _Resources, Environment and Sustainability_, 1-21. [Link](https://www.sciencedirect.com/journal/resources-environment-and-sustainability)\
-[26] Fu, S., Liao, Y., Lv, T., Zhao, Q., Chen, A., Yuan, M., Hu, C., <strong>Fan, H</strong>. (2026). "Driving factors and multi-scenario simulation of ecological resilience in the middle reaches of the Yangtze River metropolitan area". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
-[25] Hu, H., Yan, K., Wang, Y., Huang, Y., <strong>Fan, H.</strong>, Wu, Y. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-21. [Link](https://link.springer.com/journal/10668)\
-[24] 杨玉怀, <strong>樊后宝* </strong>. (2026). "基于主体功能区的江苏省土地利用碳排放研究". _干旱区资源与环境_, 1-21. [Link](https://ghzh.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=ghzh)\
-[23] 朱晓勇, <strong>樊后宝* </strong>. (2026). "	基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 1-21. [Link](http://stbcyj.paperonce.org/)\
-[22] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "面向中国全域土地综合整治的低碳化技术研究进展——基于专利与学术文献的计量分析". _自然资源学报_, 1-21. [Link](https://www.jnr.ac.cn/CN/home)\
-[21] 石雨航, 金晓斌, <strong>樊后宝</strong>, 梁坤宇, 韩博, 陈浮, 孙燕, 周寅康. (2026). "基于反事实准自然实验的生态保护红线绩效评估——以江苏省为例". _生态学报_, 1-21. [Link](https://www.ecologica.cn/stxb/home)\
-[20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 1-21. [Link](https://www.hjkx.ac.cn/ch/index.aspx)
+[29] Zhang, Y., Chen, R., Lu, X., <strong>Fan, H.</strong>, Wang, L., Xia, B., Baker, D. (2026). "Spatial optimization of cultivated land protection policy implementation effect in China using a geographically optimal zones-based heterogeneity model". _GIScience & Remote Sensing_, 1-21. [Link](https://www.tandfonline.com/journals/tgrs20)\
+[28] Cheng, J., Liu, R., Wang, P., Zhao, W., Hu, C., <strong>Fan, H</strong>. (2026). "Mapping ecological inequality across the urban-rural gradient of the Loess Plateau". _Urban Climate_, 67, 102928. [Link](https://www.sciencedirect.com/science/article/pii/S2212095526001598)\
+[27] Liang, K., Jin, X., Zhang, X., Han, B., Song, J., Zhu, J., <strong>Fan, H.</strong>, Zhou, Y. (2026). "Evaluating Cropland Restoration and Reclamation Strategies for Sustainable Land Management: Insights from China". _Resources, Environment and Sustainability_, 100311. [Link](https://www.sciencedirect.com/science/article/pii/S2666916126000241)\
+[26] Fu, S., Liao, Y., Lv, T., Zhao, Q., Chen, A., Yuan, M., Hu, C., <strong>Fan, H</strong>. (2026). "Driving factors and multi-scenario simulation of ecological resilience in the middle reaches of the Yangtze River metropolitan area". _Environment, Development and Sustainability_, 1-25. [Link](https://link.springer.com/article/10.1007/s10668-026-07320-6)\
+[25] Hu, H., Yan, K., Wang, Y., Huang, Y., <strong>Fan, H.</strong>, Wu, Y. (2026). "Unveiling the impact of fiscal decentralization on haze: The role of greening and digitalization". _Environment, Development and Sustainability_, 1-20. [Link](https://link.springer.com/article/10.1007/s10668-025-07256-3)\
+[24] 杨玉怀, <strong>樊后宝* </strong>. (2026). "基于主体功能区的江苏省土地利用碳排放研究". _干旱区资源与环境_, 40(04):109-119. [Link](https://ghzh.cbpt.cnki.net/WKC/WebPublication/index.aspx?mid=ghzh)\
+[23] 朱晓勇, <strong>樊后宝* </strong>. (2026). "基于SSPs-RCPs耦合情景的汾河流域土地利用变化对生态系统服务影响的多情景模拟". _水土保持研究_, 33(04):339-349+362. [Link](http://stbcyj.paperonce.org/)\
+[22] 朱俊俊, 金晓斌, <strong>樊后宝</strong>, 宋家鹏, 应苏辰, 薛建, 杜小娅, 周寅康. (2026). "面向中国全域土地综合整治的低碳化技术研究进展——基于专利与学术文献的计量分析". _自然资源学报_, 41(05):1349-1364. [Link](https://www.jnr.ac.cn/CN/article/showArticleAiPage.do?articleId=77591)\
+[21] 石雨航, 金晓斌, <strong>樊后宝</strong>, 梁坤宇, 韩博, 陈浮, 孙燕, 周寅康. (2026). "基于反事实准自然实验的生态保护红线绩效评估——以江苏省为例". _生态学报_, 1-21. [Link](https://www.ecologica.cn/stxb/article/abstract/stxb202511082970)\
+[20] 汪立, <strong>樊后宝</strong>, 张晏维, 谭永忠. (2026). "基于可解释集成机器学习的土壤表层pH值空间分布预测及影响因素". _环境科学_, 47(03):1941-1953. [Link](https://www.hjkx.ac.cn/hjkx/ch/html/20260349.htm)
 
 ⏰ 2025
 =====
-[19] <strong>Fan, H.</strong>, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y. (2025). "Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units". _Sustainable Cities and Society_, 133, 103997. [Link](https://doi.org/10.1016/j.scs.2025.106865)\
+[19] <strong>Fan, H.</strong>, Jin, X., Zhu, J., Zhang, Z., Hu, C., Hu, H., Du, X, Zhou, Y. (2025). "Differentiated landscape pattern transformation strategies drive territorial space carbon neutrality: A path exploration based on mixed land use units". _Sustainable Cities and Society_, 133, 106865. [Link](https://doi.org/10.1016/j.scs.2025.106865)\
 [18] <strong>Fan, H.</strong>, Zhang, X., Zhou, X., Sun, Z., He, Y., Wan, W., Lv, T. (2025). "Comprehensive evaluation of land-use carbon emissions integrating social network analysis and a zone-based machine learning approach". _Environmental Impact Assessment Review_, 112, 107775. [Link](https://doi.org/10.1016/j.eiar.2024.107775)\
 [17] Li, Q., Ge, J., Zhang, X., Wu, X., <strong>Fan, H.</strong>, Yang, L. (2025). "Assessment of the interaction between digital infrastructure and ecological resilience: Insights from Yangtze River Delta Urban Agglomeration in China". _Journal of Cleaner Production_, 486, 144364. [Link](https://doi.org/10.1016/j.jclepro.2024.144364)\
 [16] Hu, H., Yan, K., <strong>Fan, H.</strong>, Lv, T., Huang, Y., Zhang, X., Feng, Y. (2025). "Coordination or imbalance? Understanding the relationship between economic resilience and ecological resilience in Hunan Province". _Physics and Chemistry of the Earth_, 140, 103997. [Link](https://doi.org/10.1016/j.pce.2025.103997)\
