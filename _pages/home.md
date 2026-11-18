@@ -270,7 +270,7 @@ redirect_from:
     <!-- 地球部分 -->
     <div style="flex: 1; min-width: 250px;">
       <div style="width: 100%; max-width: 300px;">
-        <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=t_uzPbOFNu4gwh09R56IYNh122kCKzSjy1fMgWGC02Q"></script>
+        <script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=1odKG6gwjD9Qm9xIOarCMVb-rV4giwsGSfGBuRNhJ2o"></script>
       </div>
     </div>
     
